@@ -24,6 +24,8 @@ The Language Checker is used to check language errors including spelling mistake
 ## Code
 
 ## Work Breakdown
+* Yuankun Li
+* Xianglin Zhou
 
 ## Jira Links
 
