@@ -18,9 +18,9 @@
 #### Prefix Tree
   The Prefix Tree is a kind of search tree—an ordered tree data structure that is used to store a dynamic set or associative array where the keys are usually strings. We implenments the trie as a dictionary to check spelling mistake, because of its high-efficiency which takes O(k) lookup time for k-length words. 
   
-  Three elements in the trie structure: the character stored in the node, child nodes, count of the number of child nodes and end flag. 
+  Three elements in the trie: the character stored in the node, child nodes, count of the number of child nodes and end flag. 
   
-  Two method in the trie: 
+  Two methods in the trie: 
   
   * Insert function: Used to insert words form dictionary we crawl online. Every character of input key is inserted as an individual Trie node. The children is an array of pointers (or references) to next level trie nodes. The key character acts as an index into the array children. If the input key is new or an extension of existing key, we need to construct non-existing nodes of the key, and mark end of word for last node. If the input key is prefix of existing key in Trie, we simply mark the last node of key as end of word. The key length determines Trie depth. 
   
@@ -48,7 +48,7 @@
   
 * Xianglin Zhou
 
- 1.
+ 1.UI
  2.
  3.
 
