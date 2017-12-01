@@ -24,7 +24,7 @@ The Language Checker is used to check language errors including spelling mistake
   
   * Insert function: Used to insert words form dictionary we crawl online. Every character of input key is inserted as an individual Trie node. The children is an array of pointers (or references) to next level trie nodes. The key character acts as an index into the array children. If the input key is new or an extension of existing key, we need to construct non-existing nodes of the key, and mark end of word for last node. If the input key is prefix of existing key in Trie, we simply mark the last node of key as end of word. The key length determines Trie depth. 
   
-  * Search function: Used to search whether a word exists in the trie. we compare the characters and move down. The search can terminate due to end of string or lack of key in trie. In the former case, if the isEndofWord field of last node is true, then the key exists in trie. In the second case, the search terminates without examining all the characters of key, since the key is not present in trie.
+  * Search function: Used to search whether a word exists in the trie. we compare the characters and move down. The search can terminate due to end of string or lack of key in trie. In the former case, if the isEndofWord field of last node is true, then the key exists in trie. In the second case, the search terminates without examining all the characters of key, since the key is not present in trie.
 
 
   
