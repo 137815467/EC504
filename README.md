@@ -4,7 +4,7 @@
 
 ### Description
 
-The Language Checker is used to check language errors including spelling mistakes, capitalizing the first letter and unusual phrases. It can check the language errors in text file or sentences input by yourself.
+  The Language Checker is used to check language errors including spelling mistakes, capitalizing the first letter and unusual phrases. It can check the language errors in text file or sentences input by yourself.
 
 ### Group Members:
 
