@@ -1,11 +1,11 @@
 # EC504 Project: Language Checker
 ## Documentation
 
-1. Description
+### Description
 
 The Language Checker is used to check language errors including spelling mistakes, capitalizing the first letter and unusual phrases. It can check the language errors in text file or sentences input by yourself.
 
-2. Group Members:
+### Group Members:
 
 | Name          | E-mail      | Task                       |
 | ------------- |-------------|----------------------------|
@@ -13,4 +13,4 @@ The Language Checker is used to check language errors including spelling mistake
 | Xianglin Zhou | zxl@bu.edu  |  UI Design, Trie Design    |
 
 
-3.
+### Datastructure and Algorithm
