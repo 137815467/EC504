@@ -5,8 +5,8 @@ The Language Checker is used to check language errors including spelling mistake
 
 2. Group Members:
 
-| Name          | E-mail     | Price |
-| ------------- |------------|-------|
-| Yuankun Li    |            | $6    |
-| Xianglin Zhou | zxl@bu.edu | $8    |
+| Name          | E-mail      | Task                       |
+| ------------- |-------------|----------------------------|
+| Yuankun Li    | lykbu@bu.edu|                            |
+| Xianglin Zhou | zxl@bu.edu  |  UI Design, Trie Design    |
 3. Step 3
