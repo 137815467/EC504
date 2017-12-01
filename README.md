@@ -31,9 +31,11 @@
  
  Three buttons:
  
-  * Read data: Read a text file, show the text on the inputwords area, check the language errors automatically and show the errors one the outputwords text area.
-  * Check: After write something in the inputwords area, click on the check, the language errors automatically and show the errors one the outputwords text area.
-  * Exit: Close the application.
+ * Read data: Read a text file, show the text on the inputwords area, check the language errors automatically and show the errors one the outputwords text area.
+ 
+ * Check: After write something in the inputwords area, click on the check, the language errors automatically and show the errors one the outputwords text area.
+ 
+ * Exit: Close the application.
   
  Text Area:
  
