@@ -15,7 +15,7 @@ The Language Checker is used to check language errors including spelling mistake
 
 
 ### Datastructure and Algorithm
-* Trie datastructure:
+* Prefix Tree
 * N-gram
 * Regualr Grammar
 
