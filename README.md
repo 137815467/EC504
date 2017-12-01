@@ -15,7 +15,7 @@ The Language Checker is used to check language errors including spelling mistake
 
 
 ### Datastructure and Algorithm
-* Prefix Tree
+#### Prefix Tree
   The Prefix Tree is a kind of search tree—an ordered tree data structure that is used to store a dynamic set or associative array where the keys are usually strings. We implenments the trie as a dictionary to check spelling mistake, because of its high-efficiency which takes O(k) lookup time for k-length words. 
   
   Three elements in the trie structure: the character stored in the node, child nodes, count of the number of child nodes and end flag. 
@@ -27,10 +27,10 @@ The Language Checker is used to check language errors including spelling mistake
   * Search function: Used to search whether a word exists in the trie. we compare the characters and move down. The search can terminate due to end of string or lack of key in trie. In the former case, if the isEndofWord field of last node is true, then the key exists in trie. In the second case, the search terminates without examining all the characters of key, since the key is not present in trie.
 
 
-  
-* N-gram
-* Regualr Grammar
-*
+  
+##### N-gram
+##### Regualr Grammar
+
 ### Feature
 
 
