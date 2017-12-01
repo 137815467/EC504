@@ -1,4 +1,5 @@
 # EC504 Project: Language Checker
+
 ## Documentation
 
 ### Description
@@ -14,3 +15,15 @@ The Language Checker is used to check language errors including spelling mistake
 
 
 ### Datastructure and Algorithm
+* Trie datastructure:
+* N-gram
+* Regualr Grammar
+
+### Feature
+
+## Code
+
+## Work Breakdown
+
+## Jira Links
+
