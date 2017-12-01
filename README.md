@@ -39,8 +39,8 @@
   
  Text Area:
  
-  * Inputwords Area: Show the text read from a text file or input by yourself.
-  * Outputwords Area: Show the errors.
+ * Inputwords Area: Show the text read from a text file or input by yourself.
+ * Outputwords Area: Show the errors.
 
 
 
