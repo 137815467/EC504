@@ -1,2 +1,2 @@
 # EC504
-## Language Checker
+# Language Checker
